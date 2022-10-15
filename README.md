@@ -89,7 +89,7 @@ http://sohta02.web.fc2.com/familyday.html
 
 # LCD表示動画
 
-仮データ
+つくるっちで表示させた例です
 
 https://youtu.be/RPaXjcNmUY8
 
