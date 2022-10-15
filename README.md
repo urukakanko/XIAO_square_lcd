@@ -80,7 +80,11 @@ https://github.com/lovyan03/LovyanGFX
 他、st7789に対応したライブラリが使用可能と考えています。
 
 
+# プログラム修正でそーたメイさま「つくるっち」に対応可能です
 
+http://sohta02.web.fc2.com/familyday.html
+
+詳細準備中
 
 
 # LCD表示動画
