@@ -79,7 +79,9 @@ https://github.com/lovyan03/LovyanGFX
 
 # LCD表示動画
 
-準備中
+仮データ
+
+https://youtu.be/RPaXjcNmUY8
 
 
 
