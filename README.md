@@ -90,11 +90,18 @@ https://github.com/lovyan03/LovyanGFX
 他、st7789に対応したライブラリが使用可能と考えています。
 
 
+# デモプログラム
+
+XIAO ESP32の動作確認プログラムです
+
+https://github.com/urukakanko/XIAO_square_lcd/tree/main/xiaoESP32_square_lcd_MeterSample
+
+
 # プログラム修正でそーたメイさま「つくるっち」に対応可能です
 
 http://sohta02.web.fc2.com/familyday.html
 
-詳細準備中
+詳細説明準備中
 
 
 # LCD表示動画
@@ -105,14 +112,9 @@ https://youtu.be/RPaXjcNmUY8
 
 
 
-
-
-# 使用例
+# スイッチサイエンスマーケットプレイスで販売予定です
 
 準備中
-
-
-
 
 
 # 製作者
