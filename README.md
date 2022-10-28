@@ -111,9 +111,9 @@ https://youtu.be/1hEku8byIqU
 
 
 
-# スイッチサイエンスマーケットプレイスで販売予定です
+# スイッチサイエンスマーケットプレイスで販売しています
 
-準備中
+https://www.switch-science.com/products/8524 
 
 
 # 製作者
