@@ -105,7 +105,7 @@ http://sohta02.web.fc2.com/familyday.html
 
 # LCD表示動画
 
-つくるっちで表示させた例です
+つくるっちでLCDの表示と、ブザーとソレノイドを駆動させた例です　ネコのキャラクタが目玉のキャラクタにぶつかると、ブザーが鳴りソレノイドが動きます。
 
 https://youtu.be/1hEku8byIqU
 
