@@ -96,6 +96,12 @@ XIAO ESP32の動作確認プログラムです
 https://github.com/urukakanko/XIAO_square_lcd/tree/main/xiaoESP32_square_lcd_MeterSample
 
 
+XIAO RP2040の動作確認プログラムです
+
+https://github.com/urukakanko/XIAO_square_lcd/tree/main/xiaorp2040_square_lcd_MeterSample
+
+
+
 # プログラム修正でそーたメイさま「つくるっち」に対応可能です
 
 http://sohta02.web.fc2.com/familyday.html
