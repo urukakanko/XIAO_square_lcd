@@ -2,6 +2,8 @@
 
 ![](gaiken.jpg)
 
+
+XIAOを実装した写真
 ![](gaiken2.jpg)
 
 SeeedStudioのXIAOを使用して1.69インチ240ｘ280ドットの角丸四角形液晶を駆動する基板モジュールです。
