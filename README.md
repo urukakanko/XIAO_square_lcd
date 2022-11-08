@@ -106,7 +106,7 @@ https://github.com/urukakanko/XIAO_square_lcd/tree/main/xiaorp2040_square_lcd_Me
 
 
 
-# プログラム修正でそーたメイさま「つくるっち」に対応可能です
+# そーたメイさま「つくるっち」に対応して頂きました
 
 http://sohta02.web.fc2.com/familyday.html
 
