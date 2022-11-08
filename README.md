@@ -110,7 +110,15 @@ https://github.com/urukakanko/XIAO_square_lcd/tree/main/xiaorp2040_square_lcd_Me
 
 http://sohta02.web.fc2.com/familyday.html
 
-詳細説明準備中
+Raspberrypi Picoのファームウェア
+
+https://github.com/sohtamei/TuKuRutch.ext/blob/master/libraries/lovyanGFXpico/src/src.ino.uf2
+
+つくるっちサンプルプログラム
+
+https://sohta02.sakura.ne.jp/tukurutch/#000000531
+
+setconfigブロックでSQUAREを選んでください
 
 
 # LCD表示動画
