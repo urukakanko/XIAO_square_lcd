@@ -110,7 +110,7 @@ https://github.com/urukakanko/XIAO_square_lcd/tree/main/xiaorp2040_square_lcd_Me
 
 http://sohta02.web.fc2.com/familyday.html
 
-Raspberrypi Picoのファームウェア
+XIAO RP2040　使用時のファームウェア
 
 https://github.com/sohtamei/TuKuRutch.ext/blob/master/libraries/lovyanGFXpico/src/src.ino.uf2
 
