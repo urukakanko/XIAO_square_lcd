@@ -128,6 +128,10 @@ setconfigブロックでSQUAREを選んでください
 https://youtu.be/1hEku8byIqU
 
 
+# 本製品を使用してタカハ機工の『第10回ソレコン』に応募しました
+
+https://www.youtube.com/watch?v=jIElaem5278
+
 
 # スイッチサイエンスマーケットプレイスで販売しています
 
