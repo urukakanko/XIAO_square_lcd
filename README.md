@@ -44,6 +44,9 @@ XIAO ESP32C2, XIAO RP2040, XIAO nrf52840Sense　で液晶が駆動出来る事�
 ![](schematic.png)
 
 
+2023年4月24日出荷分以降、輝度を上げるためにバックライトLEDの電流制限抵抗を変更しています
+
+
 
 
 
